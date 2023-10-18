@@ -72,8 +72,7 @@ SIT
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 Exp_9(Part-B)
 pointer_increment*/
 #include<iostream>
@@ -130,8 +129,7 @@ Value of Incremented cr_ptr: 0x61fef8
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 Exp_9(Part-C)
 pointer_swap*/
 #include<iostream>
@@ -173,8 +171,7 @@ d:15
 */
 
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
+/*
 Exp_9*/
 # include <iostream>
 using namespace std;
